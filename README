@@ -1,1 +1,7 @@
-A jQuery plugin for applying focus to a given form field
+README
+======
+
+A jQuery plugin for applying focus to a given form field but *only*
+if the user hasn't begun typing in that field / filled it in already.
+
+See http://www.strongasanox.co.uk/2008/06/09/jquery-form-focus-plugin-released/ for more details.
